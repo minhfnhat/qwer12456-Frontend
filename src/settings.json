@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Ignite Your Passion with Fireball",
+  "subtitle": "Unleash the Energy Within with Our Revolutionary Heat Enhancer"
+}
